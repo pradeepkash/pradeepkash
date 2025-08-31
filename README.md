@@ -1,4 +1,4 @@
-## Worked on SEO (Search Engine Optimization) in collobration with web developers to help websites growp in ranking. Now I am developing websites and apps independently to create them with speed loading techniquies, SEO friendly, and better interface in mind.
+# Worked on SEO (Search Engine Optimization) in collobration with web developers to help websites growp in ranking. Now I am developing websites and apps independently to create them with speed loading techniquies, SEO friendly, and better interface in mind.
 
 ## Worked as a developer (mostly in-progress):
 1. In-development of a content management dashboard in React
